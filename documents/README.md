@@ -1,5 +1,0 @@
-
-# Rust Fundamentals
-
-Rust Fundamentals
-
