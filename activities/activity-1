@@ -1,0 +1,16 @@
+# Activity: Integer and String Conversion in Rust
+
+## Objective
+In this activity, you will write a Rust program to convert an integer to a string and then convert that string back to an integer. You will also print the results to the console.
+
+## Instructions
+
+### Step 1: Set Up Your Environment
+- Ensure that you have Rust installed on your machine. If you have not done so, visit the [official Rust website](https://www.rust-lang.org/tools/install) to download and install Rust.
+
+### Step 2: Create a New Folder for Your Activity
+- Open your terminal or command prompt.
+- Navigate to your local Rust project directory or create a new directory for this activity:
+  ```bash
+  mkdir rust_conversion_activity
+  cd rust_conversion_activity
