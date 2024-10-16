@@ -14,3 +14,5 @@ In this activity, you will write a Rust program to convert an integer to a strin
   ```bash
   mkdir rust_conversion_activity
   cd rust_conversion_activity
+
+### Screenshot your output for this activity
