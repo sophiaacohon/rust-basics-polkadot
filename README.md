@@ -25,6 +25,7 @@ To clone this repository, use the following command:
 
 ```bash
 git clone https://github.com/yourusername/rust-basics-web3-cebu-polkadot.git
+```
 
 ## Running the Examples
 
