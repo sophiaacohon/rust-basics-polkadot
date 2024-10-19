@@ -83,3 +83,4 @@ fn find_minimum(arr: &[i64]) -> i32 {
 
     return small.try_into().unwrap();
 }
+
