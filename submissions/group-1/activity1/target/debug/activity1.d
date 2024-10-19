@@ -1,1 +1,0 @@
-/home/tan/Development/rust/rust-basics-web3-cebu-polkadot/examples/14-borrowing/activity1/target/debug/activity1: /home/tan/Development/rust/rust-basics-web3-cebu-polkadot/examples/14-borrowing/activity1/src/main.rs
