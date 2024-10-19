@@ -1,10 +1,11 @@
 // Dominic and Kenjie
 fn main() {
     let mut num = 12;
-    let mut str = String::from("21");
+    let mut int_to_str = integer_to_string(&mut num);
+    let str_to_int = string_to_integer(&mut int_to_str);
 
-    println!("{}", string_to_integer(&mut str));
-    println!("{}", integer_to_string(&mut num));
+    println!("Integer to String: {}", int_to_str);
+    println!("String to Integer: {}", str_to_int);
 }
 
 fn string_to_integer(str: &mut String) -> i32 {
